@@ -1,3 +1,9 @@
+---
+description: >-
+  Athame Finance is a DeFi project that transparently invests in various DeFi
+  projects and
+---
+
 # Introduction
 
 ## Try it out
