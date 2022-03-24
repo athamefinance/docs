@@ -1,8 +1,9 @@
 # Table of contents
 
 * [Introduction](README.md)
+  * [Vision and Values](introduction/vision-and-values.md)
+  * [Meet the Team!](introduction/meet-the-team.md)
 
-## Whitepaper
+## Flashpaper
 
-* [Vision and Values](whitepaper/vision-and-values.md)
-* [Meet the Team!](whitepaper/meet-the-team.md)
+* [Page 1](flashpaper/page-1.md)
