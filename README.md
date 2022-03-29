@@ -1,9 +1,8 @@
 ---
-description: >-
-  Athame Finance is a DeFi project that transparently invests in various DeFi
-  projects across multiple blockchains.
+description: Overview
 coverY: 0
 ---
 
 # Introduction
 
+Athame Finance is a DAAS or DeFi As A Service.  DAAS is defined as paying someone else to invest your capitol.  Through governance we invest your capitol in various DeFi protocols across multiple blockchains.
