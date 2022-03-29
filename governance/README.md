@@ -1,4 +1,8 @@
-# Overview
+---
+description: Overview
+---
+
+# Governance
 
 Athame Finance Governance is the heart and brain of Athame Protocol.&#x20;
 
