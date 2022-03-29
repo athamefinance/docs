@@ -11,6 +11,7 @@
 ## Governance
 
 * [Overview](governance/overview.md)
+* [Overview 2](governance/overview-2.md)
 
 ***
 
