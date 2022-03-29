@@ -11,3 +11,4 @@
   * [Process](governance/process.md)
   * [ATH Governance Token](governance/ath-governance-token.md)
   * [Eligibility](governance/eligibility.md)
+* [FAQ](faq.md)
