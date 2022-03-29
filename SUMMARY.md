@@ -6,13 +6,11 @@
 
 ## Flashpaper
 
-* [Page 1](flashpaper/page-1.md)
+* [Page 2](flashpaper/page-2.md)
 
-## Governance
+## Governance&#x20;
 
 * [Overview](governance/overview.md)
-* [Overview 2](governance/overview-2.md)
-
-***
-
-* [Governance Process](governance-process.md)
+* [Process](governance/process.md)
+* [ATH Governance Token](governance/ath-governance-token.md)
+* [Eligibility](governance/eligibility.md)
