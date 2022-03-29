@@ -6,7 +6,7 @@
 
 ## Flashpaper
 
-* [Page 2](flashpaper/page-2.md)
+* [Overview](flashpaper/overview.md)
 
 ## Governance&#x20;
 
