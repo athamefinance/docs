@@ -7,3 +7,11 @@
 ## Flashpaper
 
 * [Page 1](flashpaper/page-1.md)
+
+## Governance
+
+* [Overview](governance/overview.md)
+
+***
+
+* [Governance Process](governance-process.md)
