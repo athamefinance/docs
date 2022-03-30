@@ -12,6 +12,7 @@
   * [ATH Governance Token](governance/ath-governance-token.md)
   * [Eligibility](governance/eligibility.md)
 * [Investment Types](investment-types/README.md)
+  * [Validators](investment-types/validators.md)
   * [Staking](investment-types/staking.md)
   * [Lending](investment-types/lending.md)
   * [Coins and Tokens](investment-types/coins-and-tokens.md)
