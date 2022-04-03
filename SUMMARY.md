@@ -18,4 +18,5 @@
   * [Coins and Tokens](investment-types/coins-and-tokens.md)
   * [Non-Fungible Tokens](investment-types/non-fungible-tokens.md)
   * [Liquidity Pools](investment-types/liquidity-pools.md)
+* [Contracts & Addresses](contracts-and-addresses.md)
 * [FAQ](faq.md)
