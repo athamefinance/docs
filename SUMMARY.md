@@ -9,7 +9,7 @@
   * [Tokenomics](flashpaper/tokenomics.md)
 * [Governance](governance/README.md)
   * [Process](governance/process.md)
-  * [ATH Governance Token](governance/ath-governance-token.md)
+  * [ATHF Governance Token](governance/athf-governance-token.md)
   * [Eligibility](governance/eligibility.md)
 * [Investment Types](investment-types/README.md)
   * [Validators](investment-types/validators.md)
