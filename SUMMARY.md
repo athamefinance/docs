@@ -20,7 +20,6 @@
   * [Liquidity Pools](investment-types/liquidity-pools.md)
 * [User Guide](user-guide/README.md)
   * [Invest](user-guide/invest.md)
-  * [Swap](user-guide/swap.md)
   * [Claim](user-guide/claim.md)
 * [Contracts & Addresses](contracts-and-addresses.md)
 * [FAQ](faq.md)
