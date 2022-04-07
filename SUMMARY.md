@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-  * [Why DeFi as a Service?](introduction/why-defi-as-a-service.md)
   * [Vision and Values](introduction/vision-and-values.md)
   * [Meet the Team!](introduction/meet-the-team.md)
 * [Flashpaper](flashpaper/README.md)
