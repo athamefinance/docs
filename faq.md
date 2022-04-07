@@ -6,7 +6,7 @@ description: Overview
 
 ### Can I withdraw?
 
-Even though it is not possible to withdraw your initial investment immediately, the community can create a proposal to liquidate one of our investments, e.g. selling a NFT, then that capital would be distributed.
+Even though at launch it is not possible to withdraw your initial investment immediately, the community can create a proposal to liquidate one of our investments, e.g. selling a NFT, then that capital would be distributed.&#x20;
 
 ### What is the approval process?
 
