@@ -14,10 +14,6 @@ coverY: 0
 
 ### Bio
 
-{% hint style="info" %}
-**Good to know:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
-{% endhint %}
-
 ## Erik
 
 👋 CTO — 💌 E[rik](https://t.me/athamefinance)
@@ -26,6 +22,4 @@ coverY: 0
 
 ### Bio
 
-{% hint style="info" %}
-**Good to know:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
-{% endhint %}
+Erik has thirty years of professional technology experience.  He started out on the infrastructure side then moved to development.  His last position he was a Chief Technology Officer.

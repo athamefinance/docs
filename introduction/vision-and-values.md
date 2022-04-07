@@ -8,26 +8,14 @@ coverY: 0
 
 ## Our Vision
 
-{% hint style="info" %}
-**Good to know:** a good vision statement shows the long-term goals of the company without getting too deep into strategy, implementation, or product specifics.
-{% endhint %}
-
-Our company vision is to **be the authoritative reference point for environmentally conscious buyers** and to **encourage more sustainable business practices** through curating beautiful, practical, consciously-produced products.
+Our vision is to provide decentralized solutions and build a community that values the principles of decentralization and transparency.  Building a strong and tightly knit community will be one of our main goals from the moment we launch the platform.&#x20;
 
 ## Our Values
 
-{% hint style="info" %}
-**Good to know:** company values are statements about how you approach work; how you treat colleagues, customers and users; and what your company stands for.
-{% endhint %}
+### Transparency
 
-### Be Compassionate
+Our [contract repository](https://github.com/athamefinance/contracts) is open for all to view.  We also have all contract events for deposits, withdrawals etc. on the [Athame App](https://app.athame.finance).
 
-We treat everyone we encounter with compassion, seeing the humanity behind their problems and experiences.
+### Governance
 
-### Be Mindful
-
-We do not take advantage of our users' attention and adopt mindful working practices so that we can create safe spaces both in our working environment and in our products themselves.
-
-### Research First
-
-We challenge our own and others' assumptions through qualitative and quantitative research. Not sure about an idea? Test it.
+Governance is the cornerstone of Athame's protocol. Other platforms are lacking in this regard and fail to take community feedback into account when investing.  All decisions will be decided by vote, making the protocol truly decentralized. By putting our users first, we allow our community to shape the future of Athame Finance protocol.
