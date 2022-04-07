@@ -18,6 +18,8 @@ Click the connect button in the upper right corner of the [Athame app](https://a
 
 When you have USDC in your account you can buy tokens with USDC using the [Athame App](https://app.athame.finance). &#x20;
 
-Your USDC balance will display in the upper right corner.  The token amount defaults to ten but you can purchase as little as one token.  Each token costs ten USDC and is used for governance.  With each purchase you will need to approve the smart contract access to your USDC so that those funds can be deposited into the contract. &#x20;
+Your USDC balance will display in the upper right corner.  The token amount defaults to ten but you can purchase as little as one token.  Each token costs ten USDC and is used for governance.  With each purchase you will need to [approve ](../faq.md#what-is-the-approval-process)the smart contract access to your USDC so that those funds can be deposited into the contract. &#x20;
 
 ![](<../.gitbook/assets/image (2) (1) (1).png>)
+
+After the approval process the "Buy" button will display.  Click the "Buy" button to finish the process.  Your Athame ATHF tokens will display in the header.
