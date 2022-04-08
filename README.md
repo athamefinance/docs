@@ -1,6 +1,6 @@
 ---
 description: Overview
-cover: .gitbook/assets/defi.svg
+cover: .gitbook/assets/defi [Converted].png
 coverY: 0
 ---
 
