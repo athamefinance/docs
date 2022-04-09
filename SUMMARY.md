@@ -6,6 +6,7 @@
 * [Flashpaper](flashpaper/README.md)
   * [Abstract](flashpaper/abstract.md)
   * [Tokenomics](flashpaper/tokenomics.md)
+  * [Fee Distribution](flashpaper/fee-distribution.md)
   * [Token Utility](flashpaper/token-utility.md)
 * [Governance](governance/README.md)
   * [Process](governance/process.md)
