@@ -28,7 +28,11 @@ There are hundreds, if not THOUSANDS of high return-on-investment scams. Some ob
 
 Another side of the market economy is the invisible hand that publicly states prosperity for all, but is focused on their self-interests and financial gain, while the contract rapidly hits $0 and everyone else is left holding an empty bag.
 
-Even if you are a veteran in this space, you can be deceived. A project that appears stable and shows profits on the exterior, while in the background a slow rug pull is quietly taking place and is outside of your control. Watching the invisible hand behind the scenes make a lucrative amount of money at your expense is excruciatingly painful and enraging.
+Even if you are a veteran in this space, you can be deceived. A project that appears stable and shows profits on the exterior, while in the background a slow rug pull is quietly taking place and is outside of your control.
+
+## The Solution
+
+To address the pressing need for a decentralized investment platform we introduce Athame Finance.
 
 Athame Finance alleviates security issues by following a guideline to our investments.  &#x20;
 
