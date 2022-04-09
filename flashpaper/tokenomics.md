@@ -1,3 +1,3 @@
 # Tokenomics
 
-![](../.gitbook/assets/Athame-Tokenomics.drawio.png)
+![](<../.gitbook/assets/Athame Finance 1\_Athame Finance Flowchart.png>)
