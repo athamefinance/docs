@@ -7,7 +7,6 @@
   * [Abstract](flashpaper/abstract.md)
   * [Tokenomics](flashpaper/tokenomics.md)
   * [Fee Distribution](flashpaper/fee-distribution.md)
-  * [Token Utility](flashpaper/token-utility.md)
 * [Governance](governance/README.md)
   * [Process](governance/process.md)
   * [ATHF Governance Token](governance/athf-governance-token.md)
