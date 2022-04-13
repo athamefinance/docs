@@ -14,6 +14,8 @@ coverY: 0
 
 ### Bio
 
+I have thirty years of professional technology experience.  I started out on the infrastructure side then moved to development.  My last position I was a Chief Technology Officer but left to pursue Athame Finance.  I got my start in crypto mining Bitcoin when it was still possible to mine with CPU, then moved to GPU.  I have been investing in various DeFi and Dapps for several years now.
+
 ## Heather
 
 👋 Co-Founder— 💌 [Heather](https://t.me/athamefinance)
@@ -22,4 +24,3 @@ coverY: 0
 
 ### Bio
 
-Erik has thirty years of professional technology experience.  He started out on the infrastructure side then moved to development.  His last position he was a Chief Technology Officer.
