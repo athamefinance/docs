@@ -8,7 +8,7 @@ coverY: 0
 
 ## Erik
 
-👋 Founder— 💌 [Erik](https://t.me/athamefinance)
+👋 CEO - Founder— 💌 [Erik](https://t.me/athamefinance)
 
 ### Bio
 
@@ -16,7 +16,7 @@ I have thirty years of professional technology experience.  I started out on the
 
 ## Heather
 
-👋 Co-Founder— 💌 [Heather](https://t.me/athamefinance)
+👋 COO - Co-Founder— 💌 [Heather](https://t.me/athamefinance)
 
 ### Bio
 
