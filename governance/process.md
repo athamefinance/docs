@@ -1,6 +1,6 @@
 # Process
 
-All preliminary discussions will happen in [Discord](https://discord.gg/KZsRuP5WCG).
+All preliminary discussions will happen in [Discord](https://discord.gg/C7FFvpry4p).
 
 * In the Governance category in the requests channel please request a new channel to discuss the proposal with the following [information](template.md)
 * Facilitate preliminary discussion
