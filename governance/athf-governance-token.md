@@ -1,3 +1,3 @@
 # ATHF Governance Token
 
-Athame Governance Token (ATHF) is used to grant voting power. ATHF tokens are not an investment; ATHF token holders should be people who interact with the protocol in some way, are committed to its future development, and want a seat at the governance table.
+Athame Governance Token (ATHF) is used to grant voting power. ATHF tokens are _not_ an investment, this is by design.  Most (if not all) Dapps after deployment mint millions of tokens then disperse these tokens to the owner and development team.   No tokens were minted after the deployment of the ATHF token contract.  The only minter role is the Depository contract and the ownership has been transferred as can be seen [here](https://snowtrace.io/address/0x0f707bb0e254868896aea49a3b50fd1ff3252480#readContract).  Scroll down to owner, click the owner which will take you to the Depository contract address.
