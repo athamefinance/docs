@@ -9,3 +9,4 @@ All preliminary discussions will happen in [Discord](https://discord.gg/C7FFvpry
 * A waiting period of 72 hours before casting votes
 * Voting lasts for 7 days
 
+Proposals that are successful will go into a queue until implemented.
