@@ -1,6 +1,8 @@
-# Template
+# \[RFC] Template
 
-* Channel name
+
+
+* Request channel name
 * Blockchain&#x20;
 * Dapp name&#x20;
 * Type of investment&#x20;

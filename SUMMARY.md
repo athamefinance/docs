@@ -11,7 +11,7 @@
   * [Process](governance/process.md)
   * [ATHF Governance Token](governance/athf-governance-token.md)
   * [Eligibility](governance/eligibility.md)
-  * [Template](governance/template.md)
+  * [\[RFC\] Template](governance/rfc-template.md)
 * [Investment Types](investment-types/README.md)
   * [Validators](investment-types/validators.md)
   * [Staking](investment-types/staking.md)
