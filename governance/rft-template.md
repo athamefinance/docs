@@ -1,8 +1,9 @@
 # \[RFT] Template
 
+Please request a new thread to discuss your proposal.  Name standard should be \[RFT] - Your Title Here
 
+In your new thread please post the following information.
 
-* Thread name
 * Dapp name&#x20;
 * Blockchain of the Dapp
 * Type of investment&#x20;
