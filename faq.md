@@ -18,7 +18,7 @@ Here's another example. Suppose you want to approve only 10 USDC, but the contra
 
 The best practice in DeFi is to double-check the amount. In MetaMask click the "Edit Permission" link.
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (1).png>)
 
 Just as with credit card purchases, you can check if the amount is accurate here.
 
