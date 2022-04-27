@@ -1,10 +1,10 @@
-# \[RFC] Template
+# \[RFT] Template
 
 
 
-* Request channel name
-* Blockchain&#x20;
+* Thread name
 * Dapp name&#x20;
+* Blockchain of the Dapp
 * Type of investment&#x20;
 * Contracts audited?&#x20;
 * Kyc?&#x20;
