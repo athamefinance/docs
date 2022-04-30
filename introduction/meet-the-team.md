@@ -7,7 +7,7 @@ coverY: 0
 
 ## Erik
 
-![](../.gitbook/assets/erik.png)
+![](<../.gitbook/assets/Erik (1).png>)
 
 👋 CEO / Founder— 💌 [Erik](https://t.me/athamefinance)
 
@@ -17,7 +17,7 @@ I have thirty years of professional technology experience.  I started out on the
 
 ## Heather
 
-![](../.gitbook/assets/heather.png)
+![](../.gitbook/assets/Heather.png)
 
 👋 COO / Co-Founder— 💌 [Heather](https://t.me/athamefinance)
 
